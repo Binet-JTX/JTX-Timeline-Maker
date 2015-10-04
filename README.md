@@ -12,7 +12,7 @@ Pour cela, on peut soit double cliquer sur "JTX Timeline Maker.jar" pour lancer 
 
 On peut aussi lancer l'interface graphique depuis l'invite de commande (et ainsi voir les erreurs) en ne précisant aucun paramètre :
 
-```java -jar "JTX Timeline Maker.jar"``
+```java -jar "JTX Timeline Maker.jar"```
 
 ###Remarques d'utilisation
 
@@ -24,6 +24,6 @@ On peut aussi lancer l'interface graphique depuis l'invite de commande (et ainsi
 
 ###Configuration requise
 
-Il nécessite d'avoir Java (JRE > 1.7 a priori) d'installé sur l'ordinateur pour être utilisé.
+Il nécessite d'avoir Java (JRE >= 1.7 a priori) d'installé sur l'ordinateur pour être utilisé.
 
 *version du 04/10/2015 par Côme Weber.* 
